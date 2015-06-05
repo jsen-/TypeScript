@@ -19,7 +19,6 @@
         "type": "git",
         "url": "https://github.com/jsen-/TypeScript-bin.git"
     },
-    "preferGlobal": true,
     "main": "./bin/typescript.js",
     "bin": {
         "tsc": "./bin/tsc",
