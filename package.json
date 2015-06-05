@@ -1,0 +1,31 @@
+{
+    "name": "typescript-bin",
+    "author": "jsen-",
+    "homepage": "http://typescriptlang.org/",
+    "version": "1.5.3",
+    "license": "Apache-2.0",
+    "description": "TypeScript is a language for application scale JavaScript development",
+    "keywords": [
+        "TypeScript",
+        "Microsoft",
+        "compiler",
+        "language",
+        "javascript"
+    ],
+    "bugs": {
+        "url": "https://github.com/Microsoft/TypeScript/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jsen-/TypeScript-bin.git"
+    },
+    "preferGlobal": true,
+    "main": "./bin/typescript.js",
+    "bin": {
+        "tsc": "./bin/tsc",
+        "tsserver": "./bin/tsserver"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
