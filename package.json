@@ -1,5 +1,5 @@
 {
-    "name": "typescript-bin",
+    "name": "typescript",
     "author": "jsen-",
     "homepage": "http://typescriptlang.org/",
     "version": "1.5.3",
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jsen-/TypeScript-bin.git"
+        "url": "https://github.com/jsen-/TypeScript"
     },
     "main": "./bin/typescript.js",
     "bin": {
